@@ -8,4 +8,4 @@ For EDA and Feature Engineering,I have dealt with various datsets such as:
 2.Black Friday Sale dataset   
 3.Flight Price Prediction dataset
 
- 
+ Automated EDA techniques have been done on the inbuilt datasets in the seaborn library.
